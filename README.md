@@ -1,2 +1,2 @@
 # test
-test for token and github use in unity and RStudio
+token RStudio for GitHub connection through Unity 
